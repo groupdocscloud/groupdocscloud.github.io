@@ -93,11 +93,11 @@ body {
     .api-product-title h2 {
         color: #343434;
         font-family: "PT Sans",Helvetica,Arial,sans-serif;
-        font-size: 24px;
+        font-size: 18px;
         font-weight: bold;
         margin: 0;
         float: left;
-        padding-top: 0;
+        padding-top: 15;
     }
 
     .api-product-title span {
