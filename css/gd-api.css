@@ -146,6 +146,18 @@ body {
 .api-search-ico {
 	background-position: 0px -1685px!important;
 }
+.api-classification-ico {
+	background-position: 0px -1685px!important;
+}
+.api-merger-ico {
+	background-position: 0px -1685px!important;
+}
+.api-editor-ico {
+	background-position: 0px -1685px!important;
+}
+.api-parser-ico {
+	background-position: 0px -1685px!important;
+}
 .api-ico {
 	background: url(../img/icons-blue.png?v=6) 0 0 no-repeat;
 	width: 55px;
