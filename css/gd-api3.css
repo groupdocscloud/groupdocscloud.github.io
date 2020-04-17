@@ -15,7 +15,7 @@ body {
 .rightbody {
     /* margin-top: 0px !important; */
     min-height: 700px;
-    padding-bottom: 50px;
+    /*padding-bottom: 50px;*/
     margin-top: 60px;
 
 }
@@ -29,7 +29,7 @@ body {
 }
 
 .api-head {
-    background-color: #33b5ed !important;o
+    background-color: #33b5ed !important;
     background-image: -moz-linear-gradient(top,#33a7e5,#34c9fa) !important;
     background-image: -webkit-gradient(linear,0 0,0 100%,from(#33a7e5),to(#34c9fa)) !important;
     background-image: -webkit-linear-gradient(top,#33a7e5,#34c9fa) !important;
@@ -188,18 +188,31 @@ body {
 	background-position: 0px -1749px!important;
 }
 
-.api-watermark-ico 
+.api-parser-ico 
 {
 	
-	background-position: 0px -1820px!important;
+	background-position: 0px -1818px!important;
 
 }
 
+.api-watermark-ico 
+{
+	
+	background-position: 0px -1892px!important;
+
+}
 
 .api-editor-ico 
 {
 	
-	background-position: 0px -1892px!important;
+	background-position: 0px -1963px!important;
+
+}
+
+.api-merger-ico 
+{
+	
+	background-position: 0px -2035px!important;
 
 }
 
@@ -421,8 +434,12 @@ body > footer .linkedin:hover:before {
 
 .api-groupdocs-text-ico-new { background: url(../img/groupdocs-text.png) 0 0 no-repeat; background-position: -4px -4px; }
 
+.api-groupdocs-parser-ico-new { background: url(../img/groupdocs-parser.png) 0 0 no-repeat; background-position: -4px -4px; }
+
 .api-groupdocs-watermark-ico-new { background: url(../img/groupdocs-watermark.png) 0 0 no-repeat; background-position: -4px -4px; }
 
 .api-groupdocs-editor-ico-new { background: url(../img/groupdocs-editor.png) 0 0 no-repeat; background-position: -4px -4px; }
+
+.api-groupdocs-merger-ico-new { background: url(../img/groupdocs-merger.png) 0 0 no-repeat; background-position: -4px -4px; }
 
 .api-groupdocs-classification-ico-new { background: url(../img/groupdocs-classification.png) 0 0 no-repeat; background-position: -4px -4px; }
