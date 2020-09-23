@@ -434,7 +434,7 @@ body > footer .linkedin:hover:before {
 .api-groupdocs-text-ico-new { background: url(../img/groupdocs-text.png) 0 0 no-repeat; background-position: -8px -7px; }
 
 .api-groupdocs-parser-ico-new { background: url(../img/groupdocs-parser.png) 0 0 no-repeat; background-position: -8px -7px; }
-
+.api-groupdocs-translation-ico-new { background: url(../img/groupdocs-translation.png) 0 0 no-repeat; background-position: -8px -7px; }
 .api-groupdocs-watermark-ico-new { background: url(../img/groupdocs-watermark.png) 0 0 no-repeat; background-position: -8px -7px; }
 
 .api-groupdocs-editor-ico-new { background: url(../img/groupdocs-editor.png) 0 0 no-repeat; background-position: -8px -7px; }
@@ -442,3 +442,24 @@ body > footer .linkedin:hover:before {
 .api-groupdocs-merger-ico-new { background: url(../img/groupdocs-merger.png) 0 0 no-repeat; background-position: -8px -7px; }
 
 .api-groupdocs-classification-ico-new { background: url(../img/groupdocs-classification.png) 0 0 no-repeat; background-position: -8px -7px; }
+
+@media (max-width:768px){
+
+	.api-box a h2{
+		font-size:18px;
+	}
+	.api-box a span{
+		font-size:14px;
+	}
+	.api-box ul{
+		padding-left: 18px!important;
+		margin-bottom: 50px;
+	}
+	.api-box ul li{
+		margin-bottom:10px;
+	}
+	.api-box ul li a{
+		font-size:18px;
+	}
+
+}
